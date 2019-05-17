@@ -1,0 +1,17 @@
+C:\dotnetrampup\src\Learn.Services.Identity\bin\Debug\netcoreapp2.2\Learn.Services.Identity.deps.json
+C:\dotnetrampup\src\Learn.Services.Identity\bin\Debug\netcoreapp2.2\Learn.Services.Identity.runtimeconfig.json
+C:\dotnetrampup\src\Learn.Services.Identity\bin\Debug\netcoreapp2.2\Learn.Services.Identity.runtimeconfig.dev.json
+C:\dotnetrampup\src\Learn.Services.Identity\bin\Debug\netcoreapp2.2\Learn.Services.Identity.dll
+C:\dotnetrampup\src\Learn.Services.Identity\bin\Debug\netcoreapp2.2\Learn.Services.Identity.pdb
+C:\dotnetrampup\src\Learn.Services.Identity\bin\Debug\netcoreapp2.2\Learn.Common.dll
+C:\dotnetrampup\src\Learn.Services.Identity\bin\Debug\netcoreapp2.2\Learn.Common.pdb
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.csprojAssemblyReference.cache
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.csproj.CoreCompileInputs.cache
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.RazorAssemblyInfo.cache
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.RazorAssemblyInfo.cs
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.AssemblyInfoInputs.cache
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.AssemblyInfo.cs
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.RazorTargetAssemblyInfo.cache
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.csproj.CopyComplete
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.dll
+C:\dotnetrampup\src\Learn.Services.Identity\obj\Debug\netcoreapp2.2\Learn.Services.Identity.pdb

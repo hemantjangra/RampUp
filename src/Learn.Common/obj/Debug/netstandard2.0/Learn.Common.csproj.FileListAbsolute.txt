@@ -1,0 +1,9 @@
+C:\dotnetrampup\src\Learn.Common\bin\Debug\netstandard2.0\Learn.Common.deps.json
+C:\dotnetrampup\src\Learn.Common\bin\Debug\netstandard2.0\Learn.Common.dll
+C:\dotnetrampup\src\Learn.Common\bin\Debug\netstandard2.0\Learn.Common.pdb
+C:\dotnetrampup\src\Learn.Common\obj\Debug\netstandard2.0\Learn.Common.csprojAssemblyReference.cache
+C:\dotnetrampup\src\Learn.Common\obj\Debug\netstandard2.0\Learn.Common.csproj.CoreCompileInputs.cache
+C:\dotnetrampup\src\Learn.Common\obj\Debug\netstandard2.0\Learn.Common.AssemblyInfoInputs.cache
+C:\dotnetrampup\src\Learn.Common\obj\Debug\netstandard2.0\Learn.Common.AssemblyInfo.cs
+C:\dotnetrampup\src\Learn.Common\obj\Debug\netstandard2.0\Learn.Common.dll
+C:\dotnetrampup\src\Learn.Common\obj\Debug\netstandard2.0\Learn.Common.pdb
