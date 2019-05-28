@@ -2757,7 +2757,7 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
-      "RabbitMQ.Client/5.0.1": {
+      "RabbitMQ.Client/5.1.0": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
@@ -4654,6 +4654,7 @@
         "dependencies": {
           "Microsoft.AspNetCore": "2.2.0",
           "Microsoft.AspNetCore.Hosting": "2.2.0",
+          "RabbitMQ.Client": "5.1.0",
           "RawRabbit": "2.0.0-rc5",
           "RawRabbit.Operations.Publish": "2.0.0-rc5",
           "RawRabbit.Operations.Subscribe": "2.0.0-rc5"
@@ -7643,10 +7644,10 @@
         "newtonsoft.json.bson.nuspec"
       ]
     },
-    "RabbitMQ.Client/5.0.1": {
-      "sha512": "89eFEAr5mV5GG2H3d4WFZEuhKmCR+EUjcphZ4+QLEkHPdo7B9kRH6X5WS0c6bHAY/B48uR0GuubnMTp5jGGmrA==",
+    "RabbitMQ.Client/5.1.0": {
+      "sha512": "oMXzDw2NLDHYlAYVJs5AHZDGkTsuzmaAPNfHjgkPqq3VfnxAXgsJ643ts6xsdXJftpwPbDAwN5YP65lHm+MiNg==",
       "type": "package",
-      "path": "rabbitmq.client/5.0.1",
+      "path": "rabbitmq.client/5.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7654,7 +7655,7 @@
         "lib/net451/RabbitMQ.Client.xml",
         "lib/netstandard1.5/RabbitMQ.Client.dll",
         "lib/netstandard1.5/RabbitMQ.Client.xml",
-        "rabbitmq.client.5.0.1.nupkg.sha512",
+        "rabbitmq.client.5.1.0.nupkg.sha512",
         "rabbitmq.client.nuspec"
       ]
     },

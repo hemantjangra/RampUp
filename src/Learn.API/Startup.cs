@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Learn.API.Handlers;
+using Learn.Common.Events;
+using Learn.Common.RabbitMq;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,6 +29,8 @@ namespace Learn.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddRabbitMq(Configuration);
+            services.AddScoped<IEventHandler<ActivityCreated>, ActivityCreatedHandler>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

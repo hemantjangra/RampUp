@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Learn.Services.Activities.Handlers;
+using Learn.Common.Events;
+using Learn.Common.RabbitMq;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -10,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Learn.Common.Commands;
 
 namespace Learn.Services.Activities
 {
@@ -26,6 +30,8 @@ namespace Learn.Services.Activities
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddRabbitMq(Configuration);
+            services.AddScoped<ICommandHandler<CreateActivity>, ActivityCreateHandler>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
