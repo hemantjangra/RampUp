@@ -1,0 +1,17 @@
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.api/bin/Debug/netcoreapp2.2/microservicedemo.api.deps.json
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.api/bin/Debug/netcoreapp2.2/microservicedemo.api.runtimeconfig.json
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.api/bin/Debug/netcoreapp2.2/microservicedemo.api.runtimeconfig.dev.json
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/bin/Debug/netcoreapp2.2/microservicedemo.api.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/bin/Debug/netcoreapp2.2/microservicedemo.api.pdb
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/bin/Debug/netcoreapp2.2/microservicedemo.common.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/bin/Debug/netcoreapp2.2/microservicedemo.common.pdb
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.csprojAssemblyReference.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.csproj.CoreCompileInputs.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.RazorAssemblyInfo.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.RazorAssemblyInfo.cs
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.AssemblyInfoInputs.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.AssemblyInfo.cs
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.RazorTargetAssemblyInfo.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.api/obj/Debug/netcoreapp2.2/microservicedemo.api.csproj.CopyComplete
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/microservicedemo.API/obj/Debug/netcoreapp2.2/microservicedemo.api.pdb

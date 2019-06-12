@@ -1,0 +1,17 @@
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.services.activities/bin/Debug/netcoreapp2.2/microservicedemo.services.activities.deps.json
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.services.activities/bin/Debug/netcoreapp2.2/microservicedemo.services.activities.runtimeconfig.json
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.services.activities/bin/Debug/netcoreapp2.2/microservicedemo.services.activities.runtimeconfig.dev.json
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/bin/Debug/netcoreapp2.2/microservicedemo.services.activities.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/bin/Debug/netcoreapp2.2/microservicedemo.services.activities.pdb
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/bin/Debug/netcoreapp2.2/microservicedemo.common.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/bin/Debug/netcoreapp2.2/microservicedemo.common.pdb
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.csprojAssemblyReference.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.csproj.CoreCompileInputs.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.RazorAssemblyInfo.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.RazorAssemblyInfo.cs
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.AssemblyInfoInputs.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.AssemblyInfo.cs
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.RazorTargetAssemblyInfo.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.services.activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.csproj.CopyComplete
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Services.Activities/obj/Debug/netcoreapp2.2/microservicedemo.services.activities.pdb

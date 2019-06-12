@@ -1,0 +1,9 @@
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.common/bin/Debug/netstandard2.0/microservicedemo.common.deps.json
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/bin/Debug/netstandard2.0/microservicedemo.common.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/bin/Debug/netstandard2.0/microservicedemo.common.pdb
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/obj/Debug/netstandard2.0/microservicedemo.common.csprojAssemblyReference.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/obj/Debug/netstandard2.0/microservicedemo.common.csproj.CoreCompileInputs.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/obj/Debug/netstandard2.0/microservicedemo.common.AssemblyInfoInputs.cache
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/obj/Debug/netstandard2.0/microservicedemo.common.AssemblyInfo.cs
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/obj/Debug/netstandard2.0/microservicedemo.common.dll
+/Users/hemkumar/dotnetrampup/RampUp/src/Microservicedemo.Common/obj/Debug/netstandard2.0/microservicedemo.common.pdb
